@@ -8,10 +8,12 @@ Choose between Chicken, Beef, or Fish tacos.
 Dynamically render recipes with EJS templates.
 Recipe data stored in a JSON structure for easy editing.
 Clean, lightweight frontend with HTML and CSS.
+
 🛠 Tech Stack
 Backend: Node.js, Express, Body-Parser
 Frontend: HTML, CSS, EJS
 Data: JSON
+
 📂 Project Structure
 /public        → static assets (CSS, images)
 /views         → EJS templates
@@ -32,6 +34,6 @@ node app.js
 
 Open your browser and visit:
 👉 http://localhost:3000
-📸 Demo
 
+📸 Demo
 Pick your taco and see the recipe instantly!
